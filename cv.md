@@ -4,12 +4,12 @@ Front-end Developer
 
 ## Contacts
 
-    Address: City Minsk, Country Belarus
-    Phone: +375295536359
-    Telegram: [@fess27](https://t.me/fess27)
-    Email: [fess2794@gmail.com](https://fess2794@gmail.com)
-    Github: [Bagdan2794](https://github.com/Bagdan2794)
-    Discord: bahdan_44440
+Address: City Minsk, Country Belarus  
+Phone: +375295536359  
+Telegram: [@fess27](https://t.me/fess27)    
+Email: [fess2794@gmail.com](https://fess2794@gmail.com)   
+Github: [Bagdan2794](https://github.com/Bagdan2794)   
+Discord: bahdan_44440   
 
 ## About
 
