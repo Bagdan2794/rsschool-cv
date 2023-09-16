@@ -29,7 +29,7 @@ I am a beginner front-end developer with a medical education. Despite working as
 
 ## Projects
 
-<!-- markdownlint-enable-file MD000 -->
+[My CV](https://bagdan2794.github.io/rsschool-cv/cv)
 
 ## Work Experience
 
